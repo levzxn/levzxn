@@ -1,10 +1,3 @@
-```js
-const eu = {
-  nome: "levi medeiros",
-  cargo: "dev fullstack",
-};
-```
-
 <div align="center">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=B11226)
